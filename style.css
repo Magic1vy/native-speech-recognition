@@ -20,6 +20,7 @@ body {
 }
 p {
     margin: 0 0 3rem;
+    font-size: 16px;
 }
 .words:before {
     content: '';
